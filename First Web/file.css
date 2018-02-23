@@ -1,0 +1,19 @@
+<style>
+	#table1,td,th {border:0px;}
+	#table1 {width:25%; height:80%; background-image:url('gedung.png');}
+	td.gambarku {background-image:url('hafif.jpg'); height:50%; width:10%;}
+	p.1 {font-family:"castellar"; font-style:bold;}
+	p.2 {font-family:"calibri"; font-style:italic;}
+	p.3 {font-family:"algerian"; font-style:underline;}
+	p.4 {font-family:"lucida handwriting";}
+	bgcolor.putih {background-color:white;}
+	bgcolor.abu {background-color:gray;}
+	bgcolor.fw {background-color:floralwhite;}
+	#warnahuruf.merah{color:red;}
+	#warnahuruf.kuning{color:yellow;}
+	#warnahuruf.emas{color:gold;}
+	#warnahuruf.magenta{color:magenta;}
+	#warnahuruf.ijokuning{color:greenyellow;}
+	h1 {font-size:12pt; color:yellow; text-align:center;}
+	#huruf {font-family:"kristen itc"; color:yellow; text-align:center;}
+</style>	
